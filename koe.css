@@ -1,0 +1,43 @@
+.nav{
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+        font-size:larger
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+td{
+    font-family: Arial, Helvetica, sans-serif;
+}
+tr{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+table {
+    width: 26%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #564ceb;
+
+}
+body {
+    background-color: rgb(203, 228, 254);
+}
